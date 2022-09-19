@@ -1,0 +1,52 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 50%;
+    margin: 0.3em;
+}
+
+button#zero {
+    width: 6.5em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 10em;
+    margin: 0.3em;
+    text-align: left;
+    padding-left: 1.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+    padding-top: 2.5em;
+}
+
+.MuiContainer-maxWidthXs {
+    margin-top: 2em;        
+}
+
+.orange {
+    background-color: #FF9500;
+    color: white;
+}
+
+.gray {
+    background-color: #505050;
+    color: white;
+}
+
+#result {
+    color: white;
+    text-align: right;
+    padding-right: 0.4em;
+    font-size: 4em;
+}
+
